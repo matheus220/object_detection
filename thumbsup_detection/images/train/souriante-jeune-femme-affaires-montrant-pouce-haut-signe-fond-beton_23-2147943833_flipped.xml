@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>souriante-jeune-femme-affaires-montrant-pouce-haut-signe-fond-beton_23-2147943833_flipped.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\souriante-jeune-femme-affaires-montrant-pouce-haut-signe-fond-beton_23-2147943833_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>302</ymin>
+			<xmax>182</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

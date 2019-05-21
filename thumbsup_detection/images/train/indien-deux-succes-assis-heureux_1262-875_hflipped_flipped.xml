@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>indien-deux-succes-assis-heureux_1262-875_hflipped_flipped.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\indien-deux-succes-assis-heureux_1262-875_hflipped_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>204</ymin>
+			<xmax>553</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>222</ymin>
+			<xmax>140</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

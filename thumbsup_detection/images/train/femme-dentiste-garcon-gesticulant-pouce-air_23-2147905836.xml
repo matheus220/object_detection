@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>femme-dentiste-garcon-gesticulant-pouce-air_23-2147905836.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\femme-dentiste-garcon-gesticulant-pouce-air_23-2147905836.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>445</ymin>
+			<xmax>452</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

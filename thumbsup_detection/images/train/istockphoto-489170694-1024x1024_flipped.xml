@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>istockphoto-489170694-1024x1024_flipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/istockphoto-489170694-1024x1024_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>767</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>460</xmin>
+			<ymin>277</ymin>
+			<xmax>497</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

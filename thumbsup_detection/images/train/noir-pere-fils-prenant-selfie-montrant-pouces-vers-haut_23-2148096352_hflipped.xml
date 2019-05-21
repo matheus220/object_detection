@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>noir-pere-fils-prenant-selfie-montrant-pouces-vers-haut_23-2148096352_hflipped.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\noir-pere-fils-prenant-selfie-montrant-pouces-vers-haut_23-2148096352_hflipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>116</ymin>
+			<xmax>218</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>105</ymin>
+			<xmax>369</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

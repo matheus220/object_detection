@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>depositphotos_49633027-stock-photo-little-girl-showing-her-thumbs_hflipped_flipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/depositphotos_49633027-stock-photo-little-girl-showing-her-thumbs_hflipped_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>177</ymin>
+			<xmax>384</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>711</xmin>
+			<ymin>150</ymin>
+			<xmax>809</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

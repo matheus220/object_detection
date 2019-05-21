@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>souriant-afro-americaine-femme-montrant-pouce-vers-haut-pres-modele-batiment_23-2148039858.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\souriant-afro-americaine-femme-montrant-pouce-vers-haut-pres-modele-batiment_23-2148039858.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>434</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>238</ymin>
+			<xmax>343</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>istockphoto-547040096-1024x1024.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/istockphoto-547040096-1024x1024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>244</ymin>
+			<xmax>368</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

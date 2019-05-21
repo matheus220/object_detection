@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>asian-teenage-girl-making-thumbsup-hk7hnp_hflipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/asian-teenage-girl-making-thumbsup-hk7hnp_hflipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>258</ymin>
+			<xmax>467</xmax>
+			<ymax>1063</ymax>
+		</bndbox>
+	</object>
+</annotation>

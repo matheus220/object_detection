@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>mecanicien-entretien-moteur-voiture_1170-1172.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\mecanicien-entretien-moteur-voiture_1170-1172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>249</ymin>
+			<xmax>357</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

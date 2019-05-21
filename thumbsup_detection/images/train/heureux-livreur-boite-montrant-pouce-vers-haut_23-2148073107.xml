@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>heureux-livreur-boite-montrant-pouce-vers-haut_23-2148073107.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\heureux-livreur-boite-montrant-pouce-vers-haut_23-2148073107.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>223</ymin>
+			<xmax>464</xmax>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+</annotation>

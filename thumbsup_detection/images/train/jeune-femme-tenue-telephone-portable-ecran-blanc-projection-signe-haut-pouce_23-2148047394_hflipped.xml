@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>jeune-femme-tenue-telephone-portable-ecran-blanc-projection-signe-haut-pouce_23-2148047394_hflipped.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\jeune-femme-tenue-telephone-portable-ecran-blanc-projection-signe-haut-pouce_23-2148047394_hflipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>50</ymin>
+			<xmax>438</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

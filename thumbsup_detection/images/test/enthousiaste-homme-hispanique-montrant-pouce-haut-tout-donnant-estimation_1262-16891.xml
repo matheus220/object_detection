@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>enthousiaste-homme-hispanique-montrant-pouce-haut-tout-donnant-estimation_1262-16891.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\enthousiaste-homme-hispanique-montrant-pouce-haut-tout-donnant-estimation_1262-16891.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>240</ymin>
+			<xmax>344</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

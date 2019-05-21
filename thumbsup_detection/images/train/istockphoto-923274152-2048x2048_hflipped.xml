@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>istockphoto-923274152-2048x2048_hflipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/istockphoto-923274152-2048x2048_hflipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>568</xmin>
+			<ymin>615</ymin>
+			<xmax>711</xmax>
+			<ymax>862</ymax>
+		</bndbox>
+	</object>
+</annotation>

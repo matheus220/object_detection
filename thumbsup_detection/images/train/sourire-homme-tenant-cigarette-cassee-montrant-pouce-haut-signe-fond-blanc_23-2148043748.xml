@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>sourire-homme-tenant-cigarette-cassee-montrant-pouce-haut-signe-fond-blanc_23-2148043748.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\sourire-homme-tenant-cigarette-cassee-montrant-pouce-haut-signe-fond-blanc_23-2148043748.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>625</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>456</ymin>
+			<xmax>387</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+</annotation>

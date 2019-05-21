@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>sportive-belle-jeune-femme-faisant-backbend-posture-vache-montrant-signe-du-pouce_23-2148047407_hflipped_flipped.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\sportive-belle-jeune-femme-faisant-backbend-posture-vache-montrant-signe-du-pouce_23-2148047407_hflipped_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>407</xmin>
+			<ymin>140</ymin>
+			<xmax>436</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

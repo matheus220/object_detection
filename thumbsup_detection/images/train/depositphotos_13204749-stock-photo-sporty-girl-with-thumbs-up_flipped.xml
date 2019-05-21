@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>depositphotos_13204749-stock-photo-sporty-girl-with-thumbs-up_flipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/depositphotos_13204749-stock-photo-sporty-girl-with-thumbs-up_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>747</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>152</ymin>
+			<xmax>294</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>

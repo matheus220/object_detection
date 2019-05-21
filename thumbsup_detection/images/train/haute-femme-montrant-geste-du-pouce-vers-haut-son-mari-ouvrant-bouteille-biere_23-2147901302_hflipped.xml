@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>haute-femme-montrant-geste-du-pouce-vers-haut-son-mari-ouvrant-bouteille-biere_23-2147901302_hflipped.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\haute-femme-montrant-geste-du-pouce-vers-haut-son-mari-ouvrant-bouteille-biere_23-2147901302_hflipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>212</ymin>
+			<xmax>365</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

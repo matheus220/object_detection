@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>middle-age-senior-catholic-nun-woman-wearing-sunglasses-over-isolated-background-doing-happy-thumbs-up-gesture-with-hand-approving-expression-looking-PJY8AB_hflipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/middle-age-senior-catholic-nun-woman-wearing-sunglasses-over-isolated-background-doing-happy-thumbs-up-gesture-with-hand-approving-expression-looking-PJY8AB_hflipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>1009</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>599</xmin>
+			<ymin>459</ymin>
+			<xmax>767</xmax>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+</annotation>

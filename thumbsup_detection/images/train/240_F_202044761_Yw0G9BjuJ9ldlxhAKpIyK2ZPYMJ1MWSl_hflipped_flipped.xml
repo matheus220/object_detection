@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>240_F_202044761_Yw0G9BjuJ9ldlxhAKpIyK2ZPYMJ1MWSl_hflipped_flipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/240_F_202044761_Yw0G9BjuJ9ldlxhAKpIyK2ZPYMJ1MWSl_hflipped_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>32</ymin>
+			<xmax>226</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

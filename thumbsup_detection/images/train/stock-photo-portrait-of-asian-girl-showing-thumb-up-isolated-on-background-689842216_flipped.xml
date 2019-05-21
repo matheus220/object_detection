@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>stock-photo-portrait-of-asian-girl-showing-thumb-up-isolated-on-background-689842216_flipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/stock-photo-portrait-of-asian-girl-showing-thumb-up-isolated-on-background-689842216_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>358</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>228</ymin>
+			<xmax>269</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

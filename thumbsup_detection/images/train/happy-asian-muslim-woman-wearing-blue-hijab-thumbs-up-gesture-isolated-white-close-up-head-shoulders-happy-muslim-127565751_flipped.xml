@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>happy-asian-muslim-woman-wearing-blue-hijab-thumbs-up-gesture-isolated-white-close-up-head-shoulders-happy-muslim-127565751_flipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/happy-asian-muslim-woman-wearing-blue-hijab-thumbs-up-gesture-isolated-white-close-up-head-shoulders-happy-muslim-127565751_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1157</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>406</ymin>
+			<xmax>570</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>980</xmin>
+			<ymin>446</ymin>
+			<xmax>1133</xmax>
+			<ymax>755</ymax>
+		</bndbox>
+	</object>
+</annotation>

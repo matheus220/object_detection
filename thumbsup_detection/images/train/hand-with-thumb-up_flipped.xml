@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>hand-with-thumb-up_flipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/hand-with-thumb-up_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>615</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>15</ymin>
+			<xmax>410</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

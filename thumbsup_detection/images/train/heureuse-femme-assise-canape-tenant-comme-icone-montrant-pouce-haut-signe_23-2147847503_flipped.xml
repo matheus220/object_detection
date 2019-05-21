@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>heureuse-femme-assise-canape-tenant-comme-icone-montrant-pouce-haut-signe_23-2147847503_flipped.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\heureuse-femme-assise-canape-tenant-comme-icone-montrant-pouce-haut-signe_23-2147847503_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>154</ymin>
+			<xmax>554</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+</annotation>

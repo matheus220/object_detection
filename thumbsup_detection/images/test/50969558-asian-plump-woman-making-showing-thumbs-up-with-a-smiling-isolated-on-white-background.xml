@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>50969558-asian-plump-woman-making-showing-thumbs-up-with-a-smiling-isolated-on-white-background.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/50969558-asian-plump-woman-making-showing-thumbs-up-with-a-smiling-isolated-on-white-background.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>92</ymin>
+			<xmax>189</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>femme-affaires-pouce-leve-parce-qu-il-s-est-passe-quelque-chose-bien_1368-32188.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\femme-affaires-pouce-leve-parce-qu-il-s-est-passe-quelque-chose-bien_1368-32188.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>571</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>126</ymin>
+			<xmax>283</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

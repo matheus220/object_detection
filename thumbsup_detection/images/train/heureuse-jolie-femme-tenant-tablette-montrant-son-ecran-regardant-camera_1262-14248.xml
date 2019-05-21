@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>heureuse-jolie-femme-tenant-tablette-montrant-son-ecran-regardant-camera_1262-14248.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\heureuse-jolie-femme-tenant-tablette-montrant-son-ecran-regardant-camera_1262-14248.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>939</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>443</ymin>
+			<xmax>153</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>

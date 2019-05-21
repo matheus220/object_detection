@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>portrait-fille-heureuse-gesticulant-pouce-air-fond-blanc_23-2147839591.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\portrait-fille-heureuse-gesticulant-pouce-air-fond-blanc_23-2147839591.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>138</ymin>
+			<xmax>232</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

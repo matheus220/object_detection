@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ok-hand-gesture-closeup-of-man-in-white-shirt-making-ok-gesture-stock-photo_csp16239845.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/ok-hand-gesture-closeup-of-man-in-white-shirt-making-ok-gesture-stock-photo_csp16239845.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>269</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>12</ymin>
+			<xmax>172</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>

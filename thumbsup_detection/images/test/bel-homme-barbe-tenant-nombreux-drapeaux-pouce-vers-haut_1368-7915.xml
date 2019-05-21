@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>bel-homme-barbe-tenant-nombreux-drapeaux-pouce-vers-haut_1368-7915.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\bel-homme-barbe-tenant-nombreux-drapeaux-pouce-vers-haut_1368-7915.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>791</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>230</ymin>
+			<xmax>215</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

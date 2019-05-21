@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>homme-quatre-as-gesticulant-pouces-jetons-casino-table-poker_23-2147937907.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\homme-quatre-as-gesticulant-pouces-jetons-casino-table-poker_23-2147937907.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>159</ymin>
+			<xmax>269</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>D146_5_241_0004_600_hflipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/D146_5_241_0004_600_hflipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>195</ymin>
+			<xmax>200</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

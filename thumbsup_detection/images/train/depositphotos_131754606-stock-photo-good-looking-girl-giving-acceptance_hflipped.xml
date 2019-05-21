@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>images</folder>
+	<filename>depositphotos_131754606-stock-photo-good-looking-girl-giving-acceptance_hflipped.jpg</filename>
+	<path>/home/vkhg7500/Documents/images/depositphotos_131754606-stock-photo-good-looking-girl-giving-acceptance_hflipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1049</xmin>
+			<ymin>658</ymin>
+			<xmax>1160</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>thumbsdown</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>696</ymin>
+			<xmax>687</xmax>
+			<ymax>930</ymax>
+		</bndbox>
+	</object>
+</annotation>

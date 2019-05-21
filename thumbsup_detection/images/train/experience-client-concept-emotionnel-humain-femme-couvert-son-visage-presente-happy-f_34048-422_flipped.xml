@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>experience-client-concept-emotionnel-humain-femme-couvert-son-visage-presente-happy-f_34048-422_flipped.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\experience-client-concept-emotionnel-humain-femme-couvert-son-visage-presente-happy-f_34048-422_flipped.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>298</xmin>
+			<ymin>137</ymin>
+			<xmax>347</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

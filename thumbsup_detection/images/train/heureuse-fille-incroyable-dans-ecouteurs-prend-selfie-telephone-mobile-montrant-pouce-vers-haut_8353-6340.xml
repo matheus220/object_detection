@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>heureuse-fille-incroyable-dans-ecouteurs-prend-selfie-telephone-mobile-montrant-pouce-vers-haut_8353-6340.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\heureuse-fille-incroyable-dans-ecouteurs-prend-selfie-telephone-mobile-montrant-pouce-vers-haut_8353-6340.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>414</xmin>
+			<ymin>253</ymin>
+			<xmax>467</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+</annotation>

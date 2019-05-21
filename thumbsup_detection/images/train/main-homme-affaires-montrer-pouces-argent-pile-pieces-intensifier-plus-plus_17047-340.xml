@@ -1,0 +1,26 @@
+<annotation>
+	<folder>news_imagens</folder>
+	<filename>main-homme-affaires-montrer-pouces-argent-pile-pieces-intensifier-plus-plus_17047-340.jpg</filename>
+	<path>C:\Users\mathe\Desktop\Orange\TensorFlow_v2\news_imagens\main-homme-affaires-montrer-pouces-argent-pile-pieces-intensifier-plus-plus_17047-340.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>417</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>60</ymin>
+			<xmax>538</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>
