@@ -60,7 +60,7 @@ python export_inference_graph.py \
     --output_directory thumb_inference_graph
 ```
 
-### Utilisez le modèle
+### Utiliser le modèle
 
 > Les deux scripts suivants sont des exemples appliqués au modèle que fait la détection de pouce et donc ils doivent être exécutés à partir du dossier `thumbsup_detection`
 
